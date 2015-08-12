@@ -1,0 +1,2 @@
+vhdl work "norgate.vhd"
+vhdl work "norgate_tb.vhw"

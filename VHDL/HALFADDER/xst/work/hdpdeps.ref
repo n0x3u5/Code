@@ -1,0 +1,16 @@
+V3 11
+FL D:/IT34/andgate/andgate.vhd 2014/07/18.14:18:06 I.24
+EN work/andgate 1406283698         FL D:/IT34/andgate/andgate.vhd PB ieee/std_logic_1164 1131108373 \
+      PB ieee/std_logic_arith 1131108375 PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/andgate/Behavioral 1406283699 FL D:/IT34/andgate/andgate.vhd EN work/andgate 1406283698
+FL D:/IT34/HALFADDER/HALFADDER.vhd 2014/07/25.15:50:44 I.24
+EN work/HALFADDER 1406283793       FL D:/IT34/HALFADDER/HALFADDER.vhd PB ieee/std_logic_1164 1131108373 \
+      PB ieee/std_logic_arith 1131108375 PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/HALFADDER/Behavioral 1406283794 FL D:/IT34/HALFADDER/HALFADDER.vhd EN work/HALFADDER 1406283793 \
+      CP xorgate_two    CP andgate
+FL D:/IT34/XORGate_two/XORGate_two.vhd 2014/07/25.15:39:40 I.24
+EN work/XORGate_two 1406283696     FL D:/IT34/XORGate_two/XORGate_two.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/XORGate_two/Behavioral 1406283697 FL D:/IT34/XORGate_two/XORGate_two.vhd \
+      EN work/XORGate_two 1406283696

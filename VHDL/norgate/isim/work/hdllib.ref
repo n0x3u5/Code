@@ -1,0 +1,4 @@
+AR norgate behavioral D:/IT34/norgate/norgate.vhd sub00/vhpl01 1405680769
+AR norgate_tb testbench_arch D:/IT34/norgate/norgate_tb.vhw sub00/vhpl03 1405680771
+EN norgate_tb NULL D:/IT34/norgate/norgate_tb.vhw sub00/vhpl02 1405680770
+EN norgate NULL D:/IT34/norgate/norgate.vhd sub00/vhpl00 1405680768

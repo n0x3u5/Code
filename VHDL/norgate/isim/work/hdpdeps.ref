@@ -1,0 +1,11 @@
+V3 7
+FL D:/IT34/norgate/norgate.vhd 2014/07/18.16:22:03 I.24
+EN work/norgate 1405680768         FL D:/IT34/norgate/norgate.vhd PB ieee/std_logic_1164 1132105529 \
+      PB ieee/std_logic_arith 1132105531 PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/norgate/Behavioral 1405680769 FL D:/IT34/norgate/norgate.vhd EN work/norgate 1405680768
+FL D:/IT34/norgate/norgate_tb.vhw 2014/07/18.16:22:39 I.24
+EN work/norgate_tb 1405680770      FL D:/IT34/norgate/norgate_tb.vhw PB ieee/std_logic_1164 1132105529 \
+      PB ieee/std_logic_arith 1132105531 PB ieee/STD_LOGIC_UNSIGNED 1132105537 \
+      PB ieee/STD_LOGIC_TEXTIO 1132105539 PB std/textio 1132105521
+AR work/norgate_tb/testbench_arch 1405680771 FL D:/IT34/norgate/norgate_tb.vhw \
+      EN work/norgate_tb 1405680770 CP norgate PB ieee/STD_LOGIC_TEXTIO 1132105539

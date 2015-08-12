@@ -1,0 +1,4 @@
+AR andgate_tb testbench_arch D:/IT34/andgate/andgate_tb.vhw sub00/vhpl03 1405674080
+EN andgate NULL D:/IT34/andgate/andgate.vhd sub00/vhpl00 1405674077
+AR andgate behavioral D:/IT34/andgate/andgate.vhd sub00/vhpl01 1405674078
+EN andgate_tb NULL D:/IT34/andgate/andgate_tb.vhw sub00/vhpl02 1405674079

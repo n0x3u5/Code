@@ -1,0 +1,10 @@
+Home = 130, 130, 1199, 652, C, 26, 26, 1233, 732, C
+DelhiTransport = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+RanchiTransport = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+GoaTransport = 0, 0, 0, 0, C, 52, 52, 1121, 574, C
+DelhiHotel = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+GoaHotel = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+RanchiHotel = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DelhiAgency = 182, 182, 1251, 704, C, 156, 156, 1225, 684, C
+RanchiAgency = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+GoaAgency = 0, 0, 0, 0, C, 0, 0, 0, 0, C

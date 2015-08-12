@@ -1,0 +1,3 @@
+MODULE nandgate_tb
+SUBMODULE nandgate
+INSTANCE UUT

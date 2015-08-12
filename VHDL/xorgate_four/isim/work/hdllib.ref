@@ -1,0 +1,4 @@
+EN xorgate_four_tb NULL D:/IT34/xorgate_four/xorgate_four_tb.vhw sub00/vhpl02 1405677134
+AR xorgate_four_tb testbench_arch D:/IT34/xorgate_four/xorgate_four_tb.vhw sub00/vhpl03 1405677135
+EN xorgate_four NULL D:/IT34/xorgate_four/xorgate_four.vhd sub00/vhpl00 1405677075
+AR xorgate_four behavioral D:/IT34/xorgate_four/xorgate_four.vhd sub00/vhpl01 1405677076

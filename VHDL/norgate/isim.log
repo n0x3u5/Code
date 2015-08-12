@@ -1,0 +1,25 @@
+ command line:
+   ./norgate_tb_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  1222
+
+Fri Jul 18 16:22:51 2014
+
+Total Line Count = 731
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 35.369 Meg. 
+
+ Total signals 6
+ Total nets 3
+ Total signal drivers 3
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 2
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

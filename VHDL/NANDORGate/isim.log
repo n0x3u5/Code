@@ -1,0 +1,27 @@
+ command line:
+   ./NANDORGate_tb_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  3415
+
+Fri Jul 25 15:01:36 2014
+
+Total Line Count = 758
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 35.3731 Meg. 
+
+ Total signals 10
+ Total nets 6
+ Total signal drivers 6
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 5
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run all 
+INFO:Simulator:30 - Simulator is stopped.

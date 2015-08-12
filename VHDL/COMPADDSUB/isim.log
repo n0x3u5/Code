@@ -1,0 +1,31 @@
+ command line:
+   ./COMPADDSUB_tb_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  2246
+
+Fri Aug 01 16:19:22 2014
+
+Total Line Count = 808
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 35.3772 Meg. 
+
+ Total signals 30
+ Total nets 22
+ Total signal drivers 13
+ Total blocks 11
+ Total primitive blocks 4
+ Total processes 14
+ntrace select -o on -n /COMPADDSUB_tb/x 
+ntrace select -o on -n /COMPADDSUB_tb/y 
+ntrace select -o on -n /COMPADDSUB_tb/cin 
+ntrace select -o on -n /COMPADDSUB_tb/s 
+ntrace select -o on -n /COMPADDSUB_tb/cout 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run all 
+INFO:Simulator:30 - Simulator is stopped.

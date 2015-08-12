@@ -1,0 +1,10 @@
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\bin\Debug\ColourChanger.exe.config
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\bin\Debug\ColourChanger.exe
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\bin\Debug\ColourChanger.pdb
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\bin\Debug\ColourChanger.xml
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\obj\Debug\ColourChanger.Form1.resources
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\obj\Debug\ColourChanger.Resources.resources
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\obj\Debug\ColourChanger.vbproj.GenerateResource.Cache
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\obj\Debug\ColourChanger.exe
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\obj\Debug\ColourChanger.xml
+D:\Babui\Visual Basic\ColourChanger\ColourChanger\ColourChanger\obj\Debug\ColourChanger.pdb

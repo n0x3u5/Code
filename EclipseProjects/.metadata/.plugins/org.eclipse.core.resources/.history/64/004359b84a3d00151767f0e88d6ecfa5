@@ -1,0 +1,10 @@
+package com.n0x3u5.basic;
+
+public class HelloWorld {
+	
+	static String randomString = "Hello, World!";
+	
+	public static void main(String []args) {
+		System.out.println(randomString);
+	}
+}

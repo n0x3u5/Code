@@ -1,0 +1,5 @@
+V3 3
+FL D:/IT34/norgate/norgate.vhd 2014/07/18.16:22:03 I.24
+EN work/norgate 1405680745         FL D:/IT34/norgate/norgate.vhd PB ieee/std_logic_1164 1131108373 \
+      PB ieee/std_logic_arith 1131108375 PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/norgate/Behavioral 1405680746 FL D:/IT34/norgate/norgate.vhd EN work/norgate 1405680745

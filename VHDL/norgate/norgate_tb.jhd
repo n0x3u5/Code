@@ -1,0 +1,3 @@
+MODULE norgate_tb
+SUBMODULE norgate
+INSTANCE UUT

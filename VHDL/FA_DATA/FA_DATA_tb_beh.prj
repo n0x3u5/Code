@@ -1,0 +1,2 @@
+vhdl work "FA_DATA.vhd"
+vhdl work "FA_DATA_tb.vhw"

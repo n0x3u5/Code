@@ -1,0 +1,3 @@
+MODULE andgate_tb
+SUBMODULE andgate
+INSTANCE UUT

@@ -1,0 +1,7 @@
+V3 3
+FL D:/IT34/XORGate_two/XORGate_two.vhd 2014/07/25.15:39:40 I.24
+EN work/XORGate_two 1406282985     FL D:/IT34/XORGate_two/XORGate_two.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/XORGate_two/Behavioral 1406282986 FL D:/IT34/XORGate_two/XORGate_two.vhd \
+      EN work/XORGate_two 1406282985

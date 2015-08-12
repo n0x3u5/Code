@@ -1,0 +1,3 @@
+vhdl work "D:/IT-62/FA_DATA/FA_DATA.vhd"
+vhdl work "FA_4BIT.vhd"
+vhdl work "FA_4BIT_tb.vhw"

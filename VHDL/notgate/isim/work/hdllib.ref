@@ -1,0 +1,4 @@
+EN notgate NULL D:/IT34/notgate/notgate.vhd sub00/vhpl00 1405680855
+EN notgate_tb NULL D:/IT34/notgate/notgate_tb.vhw sub00/vhpl02 1405680887
+AR notgate behavioral D:/IT34/notgate/notgate.vhd sub00/vhpl01 1405680856
+AR notgate_tb testbench_arch D:/IT34/notgate/notgate_tb.vhw sub00/vhpl03 1405680888

@@ -1,0 +1,6 @@
+EN fa_4bit NULL D:/IT-62/FA_4BIT/FA_4BIT.vhd sub00/vhpl02 1406885864
+AR fa_4bit behavioral D:/IT-62/FA_4BIT/FA_4BIT.vhd sub00/vhpl03 1406885865
+AR fa_data behavioral D:/IT-62/FA_DATA/FA_DATA.vhd sub00/vhpl01 1406885863
+EN fa_data NULL D:/IT-62/FA_DATA/FA_DATA.vhd sub00/vhpl00 1406885862
+EN fa_4bit_tb NULL D:/IT-62/FA_4BIT/FA_4BIT_tb.vhw sub00/vhpl04 1406886227
+AR fa_4bit_tb testbench_arch D:/IT-62/FA_4BIT/FA_4BIT_tb.vhw sub00/vhpl05 1406886228

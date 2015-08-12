@@ -1,0 +1,12 @@
+package com.n0x3u5.basic;
+
+public class HelloWorld {
+	
+	static String greetingLine = "Hello";
+	static String personName = "Raktim";
+	static String punctuation = "!";
+	
+	public static void main(String[] args) {
+		System.out.println(greetingLine);		
+	}
+}

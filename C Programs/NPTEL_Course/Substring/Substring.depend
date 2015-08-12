@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1395668668 source:d:\babui\c programs\nptel_course\substring\main.c
+	<stdio.h>
+	<string.h>
+

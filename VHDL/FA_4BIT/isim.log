@@ -1,0 +1,32 @@
+ command line:
+   ./FA_4BIT_tb_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  1728
+
+Fri Aug 01 15:13:49 2014
+
+Total Line Count = 797
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 35.3772 Meg. 
+
+ Total signals 23
+ Total nets 17
+ Total signal drivers 8
+ Total blocks 11
+ Total primitive blocks 4
+ Total processes 9
+ntrace select -o on -n /FA_4BIT_tb/x 
+ntrace select -o on -n /FA_4BIT_tb/y 
+ntrace select -o on -n /FA_4BIT_tb/s 
+ntrace select -o on -n /FA_4BIT_tb/cout 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run all 
+INFO:Simulator:30 - Simulator is stopped.
+run all 
+INFO:Simulator:30 - Simulator is stopped.

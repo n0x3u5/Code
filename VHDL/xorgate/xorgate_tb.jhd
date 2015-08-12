@@ -1,0 +1,3 @@
+MODULE xorgate_tb
+SUBMODULE xorgate
+INSTANCE UUT

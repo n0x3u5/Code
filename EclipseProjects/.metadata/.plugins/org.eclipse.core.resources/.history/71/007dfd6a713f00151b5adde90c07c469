@@ -1,0 +1,24 @@
+package com.n0x3u5.basic;
+
+import java.util.Scanner;
+
+public class HelloWorld {
+	
+	static String greetingLine = "Hello";
+	static String personName = "Raktim";
+	static String punctuation = "!";
+	
+	public static void main(String[] args) {
+		
+	}
+		static Scanner userInput = new Scanner(System.in);
+		
+		System.out.print("Your favorite number: ");
+		
+		if (userInput.hasNextInt()) {
+			int numberEntered = userInput.nextInt();
+			System.out.println("Your favorite number is: " + numberEntered);
+		
+		System.out.println(greetingLine + " " + personName + punctuation);		
+	}
+}

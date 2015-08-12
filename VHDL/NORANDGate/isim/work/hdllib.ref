@@ -1,0 +1,4 @@
+EN norandgate NULL D:/IT34/NORANDGate/NORANDGate.vhd sub00/vhpl00 1406278846
+AR norandgate_tb testbench_arch D:/IT34/NORANDGate/NORANDGate_tb.vhw sub00/vhpl03 1406278875
+AR norandgate behavioral D:/IT34/NORANDGate/NORANDGate.vhd sub00/vhpl01 1406278847
+EN norandgate_tb NULL D:/IT34/NORANDGate/NORANDGate_tb.vhw sub00/vhpl02 1406278874

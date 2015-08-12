@@ -1,0 +1,4 @@
+vhdl work "D:/IT34/andgate/andgate.vhd"
+vhdl work "D:/IT34/XORGate_two/XORGate_two.vhd"
+vhdl work "HALFADDER.vhd"
+vhdl work "HALFADDER_tb.vhw"

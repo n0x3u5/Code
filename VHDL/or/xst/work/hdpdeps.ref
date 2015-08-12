@@ -1,0 +1,5 @@
+V3 3
+FL D:/IT34/or/or.vhd 2014/07/18.14:38:24 I.24
+EN work/orgate 1405674642          FL D:/IT34/or/or.vhd PB ieee/std_logic_1164 1131108373 \
+      PB ieee/std_logic_arith 1131108375 PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/orgate/Behavioral 1405674643 FL D:/IT34/or/or.vhd EN work/orgate 1405674642

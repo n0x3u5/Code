@@ -1,0 +1,27 @@
+ command line:
+   ./HALFADDER_tb_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  4043
+
+Fri Jul 25 15:54:13 2014
+
+Total Line Count = 776
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 35.3772 Meg. 
+
+ Total signals 14
+ Total nets 4
+ Total signal drivers 4
+ Total blocks 9
+ Total primitive blocks 2
+ Total processes 3
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run all 
+INFO:Simulator:30 - Simulator is stopped.

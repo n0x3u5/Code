@@ -1,0 +1,3 @@
+xst -ise "D:/IT-62/COMPADDSUB/COMPADDSUB" -intstyle ise -ifn COMPADDSUB.xst -ofn COMPADDSUB.syr
+xst -ise "D:/IT-62/COMPADDSUB/COMPADDSUB" -intstyle ise -ifn COMPADDSUB.xst -ofn COMPADDSUB.syr
+xst -ise "D:/IT-62/COMPADDSUB/COMPADDSUB" -intstyle ise -ifn COMPADDSUB.xst -ofn COMPADDSUB.syr

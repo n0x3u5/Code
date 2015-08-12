@@ -1,0 +1,175 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.17 s | Elapsed : 0.00 / 1.00 s
+ 
+--> Parameter xsthdpdir set to ./xst
+CPU : 0.00 / 0.17 s | Elapsed : 0.00 / 1.00 s
+ 
+--> Reading design: COMPADDSUB.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) HDL Analysis
+  4) HDL Synthesis
+     4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+     5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Final Report
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "COMPADDSUB.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "COMPADDSUB"
+Output Format                      : NGC
+Target Device                      : Automotive CoolRunner2
+
+---- Source Options
+Top Module Name                    : COMPADDSUB
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Mux Extraction                     : YES
+Resource Sharing                   : YES
+
+---- Target Options
+Add IO Buffers                     : YES
+MACRO Preserve                     : YES
+XOR Preserve                       : YES
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : YES
+RTL Output                         : Yes
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : maintain
+
+---- Other Options
+lso                                : COMPADDSUB.lso
+verilog2001                        : YES
+safe_implementation                : No
+wysiwyg                            : NO
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/IT-62/FA_DATA/FA_DATA.vhd" in Library work.
+Entity <FA_DATA> compiled.
+Entity <FA_DATA> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "D:/IT-62/COMPADDSUB/COMPADDSUB.vhd" in Library work.
+Entity <compaddsub> compiled.
+Entity <compaddsub> (Architecture <behavioral>) compiled.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <COMPADDSUB> (Architecture <behavioral>).
+Entity <COMPADDSUB> analyzed. Unit <COMPADDSUB> generated.
+
+Analyzing Entity <FA_DATA> (Architecture <behavioral>).
+Entity <FA_DATA> analyzed. Unit <FA_DATA> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <FA_DATA>.
+    Related source file is "D:/IT-62/FA_DATA/FA_DATA.vhd".
+    Found 1-bit xor3 for signal <sum>.
+Unit <FA_DATA> synthesized.
+
+
+Synthesizing Unit <COMPADDSUB>.
+    Related source file is "D:/IT-62/COMPADDSUB/COMPADDSUB.vhd".
+    Found 1-bit xor2 for signal <cy0>.
+    Found 1-bit xor2 for signal <cy1>.
+    Found 1-bit xor2 for signal <cy2>.
+    Found 1-bit xor2 for signal <cy3>.
+    Summary:
+	inferred   4 Xor(s).
+Unit <COMPADDSUB> synthesized.
+
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Xors                                                 : 8
+ 1-bit xor2                                            : 4
+ 1-bit xor3                                            : 4
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Xors                                                 : 4
+ 1-bit xor3                                            : 4
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <COMPADDSUB> ...
+
+Optimizing unit <FA_DATA> ...
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : COMPADDSUB.ngr
+Top Level Output File Name         : COMPADDSUB
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : YES
+Target Technology                  : Automotive CoolRunner2
+Macro Preserve                     : YES
+XOR Preserve                       : YES
+wysiwyg                            : NO
+
+Design Statistics
+# IOs                              : 14
+
+Cell Usage :
+# BELS                             : 36
+#      AND2                        : 12
+#      INV                         : 4
+#      OR2                         : 8
+#      XOR2                        : 12
+# IO Buffers                       : 14
+#      IBUF                        : 9
+#      OBUF                        : 5
+=========================================================================
+CPU : 2.23 / 2.41 s | Elapsed : 2.00 / 3.00 s
+ 
+--> 
+
+Total memory usage is 91540 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,10 @@
+package com.n0x3u5.basic;
+
+public class HelloWorld {
+	
+	public static void main(String[] args) {
+		
+		
+		
+	}
+}

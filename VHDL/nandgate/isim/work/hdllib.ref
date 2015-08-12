@@ -1,0 +1,4 @@
+AR nandgate behavioral D:/IT34/nandgate/nandgate.vhd sub00/vhpl01 1405680543
+EN nandgate_tb NULL D:/IT34/nandgate/nandgate_tb.vhw sub00/vhpl02 1405680544
+AR nandgate_tb testbench_arch D:/IT34/nandgate/nandgate_tb.vhw sub00/vhpl03 1405680545
+EN nandgate NULL D:/IT34/nandgate/nandgate.vhd sub00/vhpl00 1405680542

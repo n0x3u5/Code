@@ -1,0 +1,6 @@
+EN compaddsub_tb NULL D:/IT-62/COMPADDSUB/COMPADDSUB_tb.vhw sub00/vhpl04 1406890162
+AR compaddsub_tb testbench_arch D:/IT-62/COMPADDSUB/COMPADDSUB_tb.vhw sub00/vhpl05 1406890163
+EN compaddsub NULL D:/IT-62/COMPADDSUB/COMPADDSUB.vhd sub00/vhpl02 1406890160
+AR compaddsub behavioral D:/IT-62/COMPADDSUB/COMPADDSUB.vhd sub00/vhpl03 1406890161
+AR fa_data behavioral D:/IT-62/FA_DATA/FA_DATA.vhd sub00/vhpl01 1406889198
+EN fa_data NULL D:/IT-62/FA_DATA/FA_DATA.vhd sub00/vhpl00 1406889197

@@ -1,0 +1,11 @@
+V3 7
+FL D:/IT34/or/orgate_tb.vhw 2014/07/18.14:46:39 I.24
+EN work/orgate_tb 1405674999       FL D:/IT34/or/orgate_tb.vhw PB ieee/std_logic_1164 1132105529 \
+      PB ieee/std_logic_arith 1132105531 PB ieee/STD_LOGIC_UNSIGNED 1132105537 \
+      PB ieee/STD_LOGIC_TEXTIO 1132105539 PB std/textio 1132105521
+AR work/orgate_tb/testbench_arch 1405675000 FL D:/IT34/or/orgate_tb.vhw EN work/orgate_tb 1405674999 \
+      CP orgate         PB ieee/STD_LOGIC_TEXTIO 1132105539
+FL D:/IT34/or/or.vhd 2014/07/18.14:38:24 I.24
+EN work/orgate 1405674536          FL D:/IT34/or/or.vhd PB ieee/std_logic_1164 1132105529 \
+      PB ieee/std_logic_arith 1132105531 PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/orgate/Behavioral 1405674537 FL D:/IT34/or/or.vhd EN work/orgate 1405674536

@@ -1,0 +1,8 @@
+EN xorgate_two NULL D:/IT34/XORGate_two/XORGate_two.vhd sub00/vhpl00 1406283849
+AR halfadder_tb testbench_arch D:/IT34/HALFADDER/HALFADDER_tb.vhw sub00/vhpl07 1406283856
+EN halfadder NULL D:/IT34/HALFADDER/HALFADDER.vhd sub00/vhpl04 1406283853
+EN halfadder_tb NULL D:/IT34/HALFADDER/HALFADDER_tb.vhw sub00/vhpl06 1406283855
+AR halfadder behavioral D:/IT34/HALFADDER/HALFADDER.vhd sub00/vhpl05 1406283854
+EN andgate NULL D:/IT34/andgate/andgate.vhd sub00/vhpl02 1406283851
+AR andgate behavioral D:/IT34/andgate/andgate.vhd sub00/vhpl03 1406283852
+AR xorgate_two behavioral D:/IT34/XORGate_two/XORGate_two.vhd sub00/vhpl01 1406283850

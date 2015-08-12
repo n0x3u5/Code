@@ -1,0 +1,4 @@
+EN nandnotgate_tb NULL D:/IT34/NANDNOTGate/NANDNOTGate_tb.vhw sub00/vhpl02 1406280827
+EN nandnotgate NULL D:/IT34/NANDNOTGate/NANDNOTGate.vhd sub00/vhpl00 1406280825
+AR nandnotgate behavioral D:/IT34/NANDNOTGate/NANDNOTGate.vhd sub00/vhpl01 1406280826
+AR nandnotgate_tb testbench_arch D:/IT34/NANDNOTGate/NANDNOTGate_tb.vhw sub00/vhpl03 1406280828

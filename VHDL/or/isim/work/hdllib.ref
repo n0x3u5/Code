@@ -1,0 +1,4 @@
+EN orgate NULL D:/IT34/or/or.vhd sub00/vhpl00 1405674536
+AR orgate_tb testbench_arch D:/IT34/or/orgate_tb.vhw sub00/vhpl03 1405675000
+EN orgate_tb NULL D:/IT34/or/orgate_tb.vhw sub00/vhpl02 1405674999
+AR orgate behavioral D:/IT34/or/or.vhd sub00/vhpl01 1405674537

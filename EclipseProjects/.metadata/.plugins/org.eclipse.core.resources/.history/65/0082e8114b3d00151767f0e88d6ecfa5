@@ -1,0 +1,24 @@
+package com.n0x3u5.basic;
+
+public class HelloWorld {
+	
+	static String randomString = "Hello, World!";
+	
+	static final double PI = 3.14;
+	
+	public static void main(String []args) {
+		System.out.println(PI);
+		
+		int integerOne = 22;
+		
+		int integerTwo 
+		= 
+		integerOne 
+		+ 1
+		;
+		
+		System.out.println(integerOne);
+		System.out.println(integerTwo);
+		
+	}
+}

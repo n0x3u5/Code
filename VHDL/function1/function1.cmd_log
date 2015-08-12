@@ -1,0 +1,1 @@
+xst -ise "D:/IT34/function1/function1" -intstyle ise -ifn function1.xst -ofn function1.syr

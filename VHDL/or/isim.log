@@ -1,0 +1,29 @@
+ command line:
+   ./orgate_tb_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  1147
+
+Fri Jul 18 14:46:43 2014
+
+Total Line Count = 730
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 36.4175 Meg. 
+
+ Total signals 6
+ Total nets 3
+ Total signal drivers 3
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 2
+ntrace select -o on -n /orgate_tb/a 
+ntrace select -o on -n /orgate_tb/b 
+ntrace select -o on -n /orgate_tb/c 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+run all 
+INFO:Simulator:30 - Simulator is stopped.

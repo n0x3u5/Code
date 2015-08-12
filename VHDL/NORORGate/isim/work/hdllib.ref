@@ -1,0 +1,4 @@
+AR nororgate_tb testbench_arch D:/IT34/NORORGate/NORORGate_tb.vhw sub00/vhpl03 1406279945
+EN nororgate NULL D:/IT34/NORORGate/NORORGate.vhd sub00/vhpl00 1406279942
+AR nororgate behavioral D:/IT34/NORORGate/NORORGate.vhd sub00/vhpl01 1406279943
+EN nororgate_tb NULL D:/IT34/NORORGate/NORORGate_tb.vhw sub00/vhpl02 1406279944

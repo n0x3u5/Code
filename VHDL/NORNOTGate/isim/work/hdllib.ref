@@ -1,0 +1,4 @@
+AR nornotgate_tb testbench_arch D:/IT34/NORNOTGate/NORNOTGate_tb.vhw sub00/vhpl03 1406280144
+EN nornotgate_tb NULL D:/IT34/NORNOTGate/NORNOTGate_tb.vhw sub00/vhpl02 1406280143
+EN nornotgate NULL D:/IT34/NORNOTGate/NORNOTGate.vhd sub00/vhpl00 1406280127
+AR nornotgate behavioral D:/IT34/NORNOTGate/NORNOTGate.vhd sub00/vhpl01 1406280128

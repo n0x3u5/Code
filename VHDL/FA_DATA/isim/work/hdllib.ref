@@ -1,0 +1,4 @@
+EN fa_data_tb NULL D:/IT-62/FA_DATA/FA_DATA_tb.vhw sub00/vhpl02 1406883589
+AR fa_data_tb testbench_arch D:/IT-62/FA_DATA/FA_DATA_tb.vhw sub00/vhpl03 1406883590
+AR fa_data behavioral D:/IT-62/FA_DATA/FA_DATA.vhd sub00/vhpl01 1406883588
+EN fa_data NULL D:/IT-62/FA_DATA/FA_DATA.vhd sub00/vhpl00 1406883587

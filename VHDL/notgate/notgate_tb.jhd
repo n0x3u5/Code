@@ -1,0 +1,3 @@
+MODULE notgate_tb
+SUBMODULE notgate
+INSTANCE UUT

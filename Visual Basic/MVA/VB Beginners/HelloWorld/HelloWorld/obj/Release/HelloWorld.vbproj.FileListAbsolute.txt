@@ -1,0 +1,9 @@
+D:\Babui\Visual Basic\MVA\VB Beginners\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+D:\Babui\Visual Basic\MVA\VB Beginners\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+D:\Babui\Visual Basic\MVA\VB Beginners\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+D:\Babui\Visual Basic\MVA\VB Beginners\HelloWorld\HelloWorld\bin\Release\HelloWorld.xml
+D:\Babui\Visual Basic\MVA\VB Beginners\HelloWorld\HelloWorld\obj\Release\HelloWorld.Resources.resources
+D:\Babui\Visual Basic\MVA\VB Beginners\HelloWorld\HelloWorld\obj\Release\HelloWorld.vbproj.GenerateResource.Cache
+D:\Babui\Visual Basic\MVA\VB Beginners\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+D:\Babui\Visual Basic\MVA\VB Beginners\HelloWorld\HelloWorld\obj\Release\HelloWorld.xml
+D:\Babui\Visual Basic\MVA\VB Beginners\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb

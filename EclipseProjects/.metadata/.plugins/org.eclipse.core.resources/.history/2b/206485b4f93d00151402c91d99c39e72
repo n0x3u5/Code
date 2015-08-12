@@ -1,0 +1,13 @@
+package com.n0x3u5.basic;
+
+import java.util.Scanner;
+
+public class JavaLessonTwo {
+	static Scanner userInput = new Scanner(System.in);
+	public static void main(String[] main) {
+		System.out.print("Your favorite number: ");
+		
+		if(userInput.hasNextInt())
+		
+	}
+}

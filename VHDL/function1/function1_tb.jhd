@@ -1,0 +1,3 @@
+MODULE function1_tb
+SUBMODULE function1
+INSTANCE UUT

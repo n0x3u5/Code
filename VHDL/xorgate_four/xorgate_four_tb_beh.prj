@@ -1,0 +1,2 @@
+vhdl work "xorgate_four.vhd"
+vhdl work "xorgate_four_tb.vhw"

@@ -1,0 +1,7 @@
+V3 3
+FL D:/IT34/xorgate_four/xorgate_four.vhd 2014/07/18.15:08:44 I.24
+EN work/xorgate_four 1405676350    FL D:/IT34/xorgate_four/xorgate_four.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/xorgate_four/Behavioral 1405676351 FL D:/IT34/xorgate_four/xorgate_four.vhd \
+      EN work/xorgate_four 1405676350
