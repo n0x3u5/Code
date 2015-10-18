@@ -1,28 +1,33 @@
+import java.util.Arrays;
+
 public class PermutationChecker {
-    String s1;
-    String s2;
 
-    PermutationChecker() {
-        s1 = s2 = "";
-    }
-
-    int charCount(String str) {
-
-    }
-
-    String sortChars(String str) {
-        
+    String sortStr(String str) {
+        char[] charArr = str.toCharArray();
+        Arrays.sort(charArr);
+        String sortedStr = new String(charArr);
+        return sortedStr;
     }
 
     boolean isPermutation(String str1, String str2) {
-        if(str1.length() == str2.length()) {
-            for(int i = 0; i < str1.length(); i++) {
+        String sortedStr1 = sortStr(str1);
+        String sortedStr2 = sortStr(str2);
 
-            }
+        if(sortedStr1.equals(sortedStr2)) {
+            return true;
+        } else {
+            return false;
         }
+
     }
 
     public static void main(String[] args) {
-        System.out.println();
+        PermutationChecker pc = new PermutationChecker();
+
+        if(pc.isPermutation("aAbaa", "baAaa")) {
+            System.out.println("Permutation.");
+        } else {
+            System.out.println("Not permutation.");
+        }
     }
 }
