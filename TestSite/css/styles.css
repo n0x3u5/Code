@@ -2,3 +2,10 @@ p {
   font-size: 40px;
   font-weight: bold;
 }
+/*[if IE]*/ p {
+    color: red;
+}
+
+/*[if ! IE]*/ p {
+    color: yellow;
+}
