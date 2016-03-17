@@ -1,0 +1,3 @@
+[submodule "AngularCode/AngularTutorial"]
+	path = AngularCode/AngularTutorial
+	url = https://github.com/angular/angular-phonecat.git
