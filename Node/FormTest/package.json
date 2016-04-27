@@ -1,0 +1,15 @@
+{
+  "name": "node-forms",
+  "version": "1.0.0",
+  "description": "Form processing using Formidable in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "n0x3u5",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "urijs": "^1.17.1"
+  }
+}
