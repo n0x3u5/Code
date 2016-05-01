@@ -1,0 +1,22 @@
+package nox.niit.gameconsole;
+
+class MainGame {
+
+	public static void main(String[] args) {
+		Game genericGame = new Game();
+        ActionGame actionGame = new ActionGame();
+        System.out.println("-----------A Generic Game-----------");
+        System.out.println(genericGame.playGame());
+        System.out.println(genericGame.computeScore());
+        System.out.println(genericGame.displayScore());
+        System.out.println("-----------An Action Game-----------");
+        System.out.println(actionGame.playGame());
+        System.out.println(actionGame.computeScore());
+        System.out.println(actionGame.displayScore());
+        String str = "a, b, c";
+        String[] res = str.split(", ");
+        for(String thing : res) {
+        	System.out.println(thing);
+        }
+	}
+}

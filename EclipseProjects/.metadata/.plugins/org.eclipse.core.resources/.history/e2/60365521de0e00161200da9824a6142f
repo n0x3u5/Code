@@ -1,0 +1,19 @@
+package nox.niit.gameconsole;
+
+class MainGame {
+
+	public static void main(String[] args) {
+		Game genericGame = new Game();
+        ActionGame actionGame = new ActionGame();
+        System.out.println("-----------A Generic Game-----------");
+        System.out.println(genericGame.playGame());
+        System.out.println(genericGame.computeScore());
+        System.out.println(genericGame.displayScore());
+        System.out.println("-----------An Action Game-----------");
+        System.out.println(actionGame.playGame());
+        System.out.println(actionGame.computeScore());
+        System.out.println(actionGame.displayScore());
+        int res = ((++x) + (2*7) + y++);
+        System.out.println(res);
+	}
+}

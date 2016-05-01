@@ -1,0 +1,9 @@
+package nox.niit.books;
+
+public class MainBooks {
+	public static void main(String[] args) {
+		Book book = new Book();
+		
+	}
+
+}

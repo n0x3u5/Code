@@ -1,0 +1,25 @@
+package nox.niit.gameconsole;
+
+class MainGame {
+
+	public static void main(String[] args) {
+		Game genericGame = new Game();
+        ActionGame actionGame = new ActionGame();
+        System.out.println("-----------A Generic Game-----------");
+        System.out.println(genericGame.playGame());
+        System.out.println(genericGame.computeScore());
+        System.out.println(genericGame.displayScore());
+        System.out.println("-----------An Action Game-----------");
+        System.out.println(actionGame.playGame());
+        System.out.println(actionGame.computeScore());
+        System.out.println(actionGame.displayScore());
+        int Direction = 3;
+        String str;
+        
+        switch(Direction) {
+        case 1:	System.out.println("1"); break;
+        case 2:	System.out.println("2"); break;
+        default:	System.out.println("default"); break;
+        }
+	}
+}

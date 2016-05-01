@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package nox.niit.books;
+
+/**
+ * @author Nakshatra
+ *
+ */
+public class MainBooks {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

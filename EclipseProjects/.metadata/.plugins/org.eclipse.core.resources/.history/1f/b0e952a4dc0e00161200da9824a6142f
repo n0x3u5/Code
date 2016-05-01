@@ -1,0 +1,7 @@
+package nox.niit.gameconsole;
+
+class ActionGame extends Game {
+	public String playGame() {
+		return "The Action Game is started!";
+	}
+}

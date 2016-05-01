@@ -1,0 +1,15 @@
+package nox.niit.books;
+
+class HardwareBooks extends Books {
+
+	private String hwCat;
+	private String hwPub;
+	HardwareBooks() {
+		super();
+		this.hwCat = "";
+		this.hwPub = "";
+	}
+	
+	
+
+}

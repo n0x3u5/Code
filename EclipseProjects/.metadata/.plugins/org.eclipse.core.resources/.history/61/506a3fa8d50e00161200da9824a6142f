@@ -1,0 +1,16 @@
+package nox.niit.books;
+
+class HardwareBooks extends Books {
+
+	private String swVer;
+	private String swName;
+	
+	HardwareBooks() {
+		super();
+		this.swVer = "";
+		this.swName = "";
+	}
+	
+	
+
+}

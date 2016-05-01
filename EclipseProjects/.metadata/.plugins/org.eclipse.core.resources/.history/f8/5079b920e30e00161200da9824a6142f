@@ -1,0 +1,20 @@
+package nox.niit.gameconsole;
+
+class MainGame {
+	
+	final int ch = 20;
+	public static void main(String[] args) {
+		Game genericGame = new Game();
+        ActionGame actionGame = new ActionGame();
+        System.out.println("-----------A Generic Game-----------");
+        System.out.println(genericGame.playGame());
+        System.out.println(genericGame.computeScore());
+        System.out.println(genericGame.displayScore());
+        System.out.println("-----------An Action Game-----------");
+        System.out.println(actionGame.playGame());
+        System.out.println(actionGame.computeScore());
+        System.out.println(actionGame.displayScore());
+        MainGame mg = new MainGame();
+        System.out.println(ch);
+	}
+}

@@ -1,0 +1,28 @@
+package nox.niit.books;
+
+public class MainBooks {
+	public static void main(String[] args) {
+		Book book = new Book();
+		book.setAuthorName("Dale Carnegie");
+		book.setTitle("How to Win Freinds and Influence People");
+		book.setPrice(521.00);
+		book.setPages(288);
+		
+		SoftwareBook swBook = new SoftwareBook();
+		swBook.setAuthorName("Joshua Bloch");
+		swBook.setTitle("Effective Java");
+		swBook.setSwName("Java");
+		swBook.setSwVer("1.8");
+		swBook.setPrice(530.00);
+		swBook.setPages(374);
+		
+		HardwareBook hwBook = new HardwareBook();
+		hwBook.setAuthorName("Michael Margolis");
+		hwBook.setTitle("Arduino Cookbook");
+		hwBook.setHwCat("Micro Controller");
+		hwBook.setHwPub("O'Rielly");
+		hwBook.setPrice(1075.00);
+		hwBook.setPages(752);
+	}
+
+}
